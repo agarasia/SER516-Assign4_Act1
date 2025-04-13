@@ -4,8 +4,6 @@ import static java.lang.Class.forName;
 
 import java.lang.reflect.Method;
 import java.util.List;
-// Adding a checkstyle violation
-import java.util.ArrayList;
 
 import edu.asu.assign4.rest.grocery.model.Producer;
 
